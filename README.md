@@ -1,4 +1,4 @@
-# Tutorial de SQLAlchemy
+# Tutorial de SQLAlchemyyy
 
 Para el desarrollo de este tutorial es importante cumplir con los siguientes requisitos:
 * Tener Python y pip correctamente instalados y actualizados a una versión reciente. Si aún no los instala, puede descargar las versiones para los diferentes sistemas operativos en https://www.python.org/downloads/ y si es necesario revisar las instrucciones de instalación, se pueden seguir en sitios como https://realpython.com/installing-python/  
